@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdrms5826)](https://solved.ac/whdrms5826/) 
+![Leetcode Stats](https://leetcard.jacoblin.cool/whdrms5826)
